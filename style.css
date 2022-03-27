@@ -1,0 +1,27 @@
+.container{
+    margin:auto;
+    display: block;
+    margin-top: 15%;
+    text-align: center;
+  
+   background: url("img.jpg") no-repeat cover ;
+ 
+}
+.c1{
+    font-size: 60px;
+    letter-spacing: 10px;
+}
+.c2{
+    font-size: 40px;
+    letter-spacing: 8px;
+}
+.c3{
+    font-size: 18px;
+    letter-spacing: 3px;
+
+}
+.new{
+
+    background-color: blue;
+}
+
